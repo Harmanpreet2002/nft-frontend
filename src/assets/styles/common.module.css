@@ -1,0 +1,15 @@
+.gradient_border {
+  background: linear-gradient(rgb(27, 27, 27), rgb(27, 27, 27)) padding-box,
+              linear-gradient(92.92deg, #EB6335 4.46%, #E95730 100%) border-box;
+  border-radius: 30px;
+  border: 1px solid transparent;
+}
+
+
+.gradient_heading {
+  background: linear-gradient(90deg, #ff8327 0%, #ffb33b 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

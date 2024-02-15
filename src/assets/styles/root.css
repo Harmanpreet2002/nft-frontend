@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+    --font1: "Bakbak One", cursive;
+    --font2: "Poppins", sans-serif;
+    --light-gray: rgba(163, 169, 167, 1);
+    --dark-gray: rgb(27, 27, 27);
+    --accent: rgba(237, 117, 59, 1);
+    --orange-gradient: linear-gradient(90deg, #ED753B 0%, #E53625 99.42%), #000000;
+}
