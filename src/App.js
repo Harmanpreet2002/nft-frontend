@@ -3,7 +3,7 @@ import { Provider } from "react-redux";
 import { PersistGate } from 'redux-persist/integration/react';
 import { persistStore } from 'redux-persist';
 import { store } from './redux/store';
-import styles from "./assets/styles/root.css";
+// import styles from "./assets/styles/root.css";
 import { MetaMaskContextProvider } from "./hooks/metamask";
 
 /** intialize persist in local storage */

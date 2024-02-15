@@ -4,7 +4,7 @@ import AuthLayout from "../components/HOC/AuthLayout";
 import SignIn from "../modules/auth/SignIn";
 import SignUp from "../modules/auth/SignUp";
 // import DraftContainerSwicther from "../modules/draft/Switcher";
-import DraftLayout from "../components/HOC/DraftLayout";
+// import DraftLayout from "../components/HOC/DraftLayout";
 // import Connect from "../modules/metamask/test";
 import CollectionLayout from "../components/HOC/CollectionLayout";
 import CreateCollection from "../modules/collection/CreateCollection";
